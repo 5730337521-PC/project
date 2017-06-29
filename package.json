@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Speech/Text-app-Speech/Text",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "Panyapol Chuenwatanakul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "watson-developer-cloud": "^2.32.1"
+  }
+}
